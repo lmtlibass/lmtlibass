@@ -5,7 +5,7 @@
 <h3 align="center">développer full stack.</h3>
 
 
-- 🔭 I’m  **freeleance developper**
+- 🔭 I’m  **Full Stack developper**
 - 🔭 I'am the founder of wommate
 
 - 🌱 I’m currently learning **webrtc**
